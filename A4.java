@@ -1,10 +1,3 @@
-/*
- *  ============================================================================================
- *  A1.java : Extends JFrame and contains a panel where shapes move around on the screen.
- *  YOUR UPI: 791039156
- *  Name: Zachary Hsu
- *  ============================================================================================
- */
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
@@ -21,7 +14,6 @@ public class A4  extends JFrame {
 	JComboBox<PathType> pathComboBox;
 	JTextField heightTextField, widthTextField, textTextField;
 	JComboBox<ShapeType> InnerShapesComboBox;
-	/** main method for A1 */
 	public static void main(String[] args) {
 		javax.swing.SwingUtilities.invokeLater(new Runnable() {
 			public void run() {

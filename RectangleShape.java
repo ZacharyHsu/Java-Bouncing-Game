@@ -1,9 +1,4 @@
-/*
- *	===============================================================================
- *	RectangleShape.java : A shape that is a rectangle.
- *  YOUR UPI: 791039156
- *  Name: Zachary Hsu
- *	=============================================================================== */
+
 import java.awt.*;
 class RectangleShape extends Shape {
 

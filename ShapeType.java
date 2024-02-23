@@ -1,10 +1,4 @@
-/*
- *  ============================================================================================
- *  enum which defines the type of shapes in A1
- *  YOUR UPI: 791039156
- *  Name: Zachary Hsu
- *  ============================================================================================
- */
+
 import java.util.*;
 enum ShapeType { RECTANGLE, OVAL, NESTED;
 	private static final Random rand = new Random(30);

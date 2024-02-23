@@ -1,10 +1,4 @@
-/*
- *  ============================================================================================
- *  enum which defines the type of paths in A1
- *  YOUR UPI: 791039156
- *  Name: Zachary Hsu
- *  ============================================================================================
- */
+
 import java.util.*;
 enum PathType { BOUNCE;
 	private static final Random rand = new Random();

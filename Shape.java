@@ -1,10 +1,3 @@
-/* ==============================================
- *  Shape.java : The superclass of all shapes.
- *  A shape defines various properties, including selected, colour, width and height.
- *  YOUR UPI: 791039156
- *  Name: Zachary Hsu
- *  ===============================================================================
- */
 
 import java.awt.*;
 abstract class Shape {

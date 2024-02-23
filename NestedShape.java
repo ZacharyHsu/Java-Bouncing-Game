@@ -1,9 +1,4 @@
-/*
- *	===============================================================================
- *	NestedShape.java : A shape that is a rectangle.
- *  YOUR UPI: 791039156
- *  Name: Zachary Hsu
- *	=============================================================================== */
+
 import java.awt.Color;
 import java.util.*;
 class NestedShape extends RectangleShape {

@@ -1,10 +1,4 @@
-/*
- *  ============================================================================================
- *  Painter.java : Painter interface
- *  YOUR UPI: 791039156
- *  Name: Zachary Hsu
- *  ============================================================================================
- */
+
 import java.awt.*;
 interface Painter {
 	public void drawRect(int x, int y, int width, int height);

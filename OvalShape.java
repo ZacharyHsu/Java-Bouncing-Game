@@ -1,9 +1,4 @@
-/*
- *	===============================================================================
- *	OvalShape.java : A shape that is an oval.
- *  YOUR UPI: 791039156
- *  Name: Zachary Hsu
- *	=============================================================================== */
+
 import java.awt.*;
 class OvalShape extends Shape {
 	public OvalShape() {}

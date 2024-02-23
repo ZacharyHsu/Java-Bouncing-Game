@@ -1,10 +1,4 @@
-/*
- *  ============================================================================================
- *  Implementation of the Painter interface that delegates drawing to a Graphics object
- *  YOUR UPI: 791039156
- *  Name: Zachary Hsu
- *  ============================================================================================
- */
+
 import java.awt.*;
 import java.awt.Graphics2D;
 
