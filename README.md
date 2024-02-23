@@ -1,3 +1,4 @@
+# Java Bouncing Game
 ![alt text](https://github.com/ZacharyHsu/Java-Bouncing-Game/blob/main/showcase.jpg?raw=true)
 
 這個小遊戲要求我們運用物件導向程式設計的原則，實現圖形在畫面上的動態移動，並在碰到邊界時改變方向。
